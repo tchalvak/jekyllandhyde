@@ -1,4 +1,8 @@
-# Jekyll Serif Theme
+# Personal Jekyll site
+
+Deployed on netlify here: https://app.netlify.com/sites/ubiquitous-bavarois-3f2d96/configuration/general
+
+## Jekyll Serif Theme
 
 Serif is a modern business theme for Jekyll. It contains multiple content types for a typical brochure/marketing website. The theme is fully responsive, blazing fast and artfully illustrated.
 
